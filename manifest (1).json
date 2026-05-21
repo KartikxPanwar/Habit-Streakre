@@ -17,4 +17,7 @@
     }
   ],
   "categories": ["health", "lifestyle", "productivity"]
+  "start_url": "/Habit-Streakre/index.html",
+"scope": "/Habit-Streakre/",
+  
 }
