@@ -2,8 +2,8 @@
   "name": "HabitFlow",
   "short_name": "HabitFlow",
   "description": "Track habits, streaks and productive time",
-  "start_url": "./index.html",
-  "scope": "./",
+  "start_url": "/Habit-Streakre/index.html",
+"scope": "/Habit-Streakre/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f0f14",
@@ -17,7 +17,6 @@
     }
   ],
   "categories": ["health", "lifestyle", "productivity"]
-  "start_url": "/Habit-Streakre/index.html",
-"scope": "/Habit-Streakre/",
+
   
 }
